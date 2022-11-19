@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yasashii-sudoku.netlify.app/post/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/post/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/hugo/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/hugo/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/katex/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/katex/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/katex-math-typesetting/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/katex-math-typesetting/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/math/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/math/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/typesetting/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/typesetting/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/nasa/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/nasa/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/nasa-images/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/nasa-images/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/quotes/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/quotes/</loc>
     <lastmod>2018-12-26T00:29:41-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/quotes-by-carl-jung/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/quotes-by-carl-jung/</loc>
     <lastmod>2018-12-26T00:29:41-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/bootstrap/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/bootstrap/</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/css/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/css/</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/style-a-markdown-table-with-bootstrap-classes-in-hugo/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/style-a-markdown-table-with-bootstrap-classes-in-hugo/</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/fedora/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/fedora/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/snap/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/snap/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/ubuntu/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/ubuntu/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/awk/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/awk/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/command-line/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/command-line/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/creating-a-new-theme/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/theme/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/about/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/goisforlovers/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/fun/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/fun/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/hugoisforlovers/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/git/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/git/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/go/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/templates/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/jekyll/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/migrate-from-jekyll/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yasashii-sudoku.netlify.app/tags/migration/</loc>
+    <loc>https://yasashii-sudoku.pages.dev/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

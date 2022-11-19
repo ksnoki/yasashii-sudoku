@@ -2,188 +2,188 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vanilla</title>
-    <link>https://yasashii-sudoku.netlify.app/tags/</link>
+    <link>https://yasashii-sudoku.pages.dev/tags/</link>
     <description>Recent content in Tags on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yasashii-sudoku.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yasashii-sudoku.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/hugo/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/hugo/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/hugo/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>katex</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/katex/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/katex/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/katex/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/math/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/math/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/math/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typesetting</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/typesetting/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/typesetting/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/typesetting/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/typesetting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nasa</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/nasa/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/nasa/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/nasa/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/nasa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>quotes</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/quotes/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/quotes/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/quotes/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/bootstrap/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/bootstrap/</link>
       <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/bootstrap/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/css/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/css/</link>
       <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/css/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fedora</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/fedora/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/fedora/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/fedora/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snap</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/snap/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/snap/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/snap/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/snap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/ubuntu/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/ubuntu/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/ubuntu/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>awk</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/awk/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/awk/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/awk/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/awk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>command-line</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/command-line/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/command-line/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/command-line/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/theme/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/theme/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/fun/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/fun/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/fun/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/git/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/git/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/git/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/go/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/go/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/templates/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/templates/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/jekyll/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/jekyll/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>https://yasashii-sudoku.netlify.app/tags/migration/</link>
+      <link>https://yasashii-sudoku.pages.dev/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yasashii-sudoku.netlify.app/tags/migration/</guid>
+      <guid>https://yasashii-sudoku.pages.dev/tags/migration/</guid>
       <description></description>
     </item>
     
