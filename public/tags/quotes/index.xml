@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quotes on Vanilla</title>
-    <link>https://yasashii-sudoku.pages.dev/tags/quotes/</link>
+    <link>https://yasashii-sudoku.netlify.app/tags/quotes/</link>
     <description>Recent content in quotes on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 00:29:41 -0600</lastBuildDate><atom:link href="https://yasashii-sudoku.pages.dev/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Dec 2018 00:29:41 -0600</lastBuildDate><atom:link href="https://yasashii-sudoku.netlify.app/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quotes by Carl Jung</title>
-      <link>https://yasashii-sudoku.pages.dev/quotes-by-carl-jung/</link>
+      <link>https://yasashii-sudoku.netlify.app/quotes-by-carl-jung/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>https://yasashii-sudoku.pages.dev/quotes-by-carl-jung/</guid>
+      <guid>https://yasashii-sudoku.netlify.app/quotes-by-carl-jung/</guid>
       <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.Carl JungThe least of things with a meaning is worth more in life than the greatest of things without it.Carl JungWho looks outside, dreams; who looks inside, awakes.</description>
     </item>
     

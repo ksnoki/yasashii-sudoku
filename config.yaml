@@ -1,8 +1,8 @@
-baseURL: https://yasashii-sudoku.netlify.app/
-languageCode: en-us
+baseurl: https://yasashii-sudoku.netlify.app/
+languagecode: en-us
 title: Vanilla
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: UA-123456789-1
+googleanalytics: UA-123456789-1
 
 taxonomies:
   tag: tags
