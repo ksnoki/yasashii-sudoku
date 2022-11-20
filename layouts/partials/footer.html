@@ -1,0 +1,8 @@
+{{ if ne .Site.Params.hideFooter true }}
+<footer id="footer" class="mt-auto text-center text-muted">
+  <div class="container">
+    © 2022 Yasashii Sudoku |
+    {{ .Site.Params.footerText | markdownify }}
+  </div>
+</footer>
+{{ end }}

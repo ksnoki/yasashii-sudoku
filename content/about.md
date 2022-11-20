@@ -1,16 +1,12 @@
 ---
-date: "2014-04-09"
+date: "2022-11-19"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I've been making Sudoku puzzles in my spare time.
 
-It makes use of a variety of open source projects including:
+You can use the numbers from 1 to 9 to fill in the blanks. The same number can't be repeated in each column, row, and grid (3×3 box).
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+If you find unsolvable one, please let me know. I must have made a mistake. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+[@kusunokiask](https://twitter.com/kusunokiask).
