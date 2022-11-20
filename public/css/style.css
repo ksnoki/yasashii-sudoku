@@ -8,7 +8,7 @@
 
 table {
     border-collapse: collapse;
-    border: solid thick;
+    border: solid;
     align-items: center;
     margin-bottom: 0.6rem
 }
@@ -19,7 +19,7 @@ tbody {
 }
 
 td {
-    border: solid thin;
+    border: solid;
     height: 8vh;
     width: 8vh;
     text-align: center;
