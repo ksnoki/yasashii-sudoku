@@ -13,6 +13,8 @@ table {
     border: solid thick;
     align-items: center;
     margin-bottom: 0.6rem;
+   width: 50vh;
+   height: 50vh;
 }
 
 colgroup,
