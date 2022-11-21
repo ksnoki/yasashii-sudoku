@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sudoku on Vanilla</title>
+    <title>Sudoku on Yasashii Sudoku</title>
     <link>https://yasashii-sudoku.netlify.app/post/</link>
-    <description>Recent content in Sudoku on Vanilla</description>
+    <description>Recent content in Sudoku on Yasashii Sudoku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Nov 2022 00:58:22 -0500</lastBuildDate><atom:link href="https://yasashii-sudoku.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />

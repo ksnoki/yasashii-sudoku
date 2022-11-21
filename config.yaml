@@ -1,6 +1,6 @@
 baseURL: https://yasashii-sudoku.netlify.app/
 languageCode: en-us
-title: Vanilla
+title: Yasashii Sudoku
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -38,12 +38,13 @@ menu:
 params:
   includeBootstrapJs: false
   showActiveNav: true
-  containerMaxWidth: 700px
+  containerMaxWidth: 600px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
+  homeText: Easy Sudoku pizzles.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
   katex: true
+  customCss: "/css/style.css"
 
 markup:
   defaultMarkdownHandler: goldmark

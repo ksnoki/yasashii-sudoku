@@ -6,7 +6,8 @@
     | default .Title }}
   <meta name="description" content="{{ $summary }}">
   <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
-  <link rel="stylesheet" href="https://yasashii-sudoku.netlify.app/css/style.css">
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="/favicon.png" />
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
