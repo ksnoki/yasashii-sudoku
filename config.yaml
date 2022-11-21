@@ -38,7 +38,7 @@ menu:
 params:
   includeBootstrapJs: false
   showActiveNav: true
-  containerMaxWidth: 600px
+  containerMaxWidth: 500px
   dateFormat: Jan 2, 2006
   homeText: Easy Sudoku pizzles.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
